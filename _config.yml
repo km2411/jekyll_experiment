@@ -40,8 +40,8 @@ email: kkartikmittal@gmail.com
 avatar: assets/images/dp.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/jekyll_experiment" # the subpath of your site, e.g. /blog
+url: "https://km2411.github.io/jekyll_experiment/" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url: https://www.facebook.com/km2411
@@ -54,5 +54,5 @@ twitter_url: https://twitter.com/km2411_
 google_analytics:
 
 # The following settings are NECESSARY for the Prologue theme to run:
-theme: jekyll-theme-prologue
+remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
