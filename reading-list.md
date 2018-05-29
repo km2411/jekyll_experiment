@@ -1,3 +1,4 @@
+<!--
 ---
 title: Reading List
 subtitle: a list of books I read
@@ -20,3 +21,4 @@ I love books! Here are some I'm reading now:
 10. James Woodforde: *The Diary of A Country Parson*
 
 source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+-->
